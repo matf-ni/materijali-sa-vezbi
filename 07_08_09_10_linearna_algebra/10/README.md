@@ -2,7 +2,7 @@
 
 Materijali sa ovog časa pokrivaju dekompozicije matrica i njihove primene. 
 
-Sveska `01` približava bibliotečke dekompozicije QR, LU i SVD. 
+Sveska `01` približava bibliotečke dekompozicije Čoleski, LU i SVD. 
 
 Sveska `02` ukazuje na ponašanja SVD dekompozicije kada se smanjuje broj njenih singularnih vrednosti. 
 
